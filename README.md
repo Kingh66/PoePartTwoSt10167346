@@ -6,7 +6,7 @@ Instructions
 To compile and run the software, follow these steps:
 
 •	Ensure that you have the .NET Core SDK installed on your machine.
-•	Clone the GitHub repository: Link to Repository
+•	Clone the GitHub repository: https://github.com/Kingh66/PoePartTwoSt10167346.git
 •	Open a command prompt or terminal and navigate to the project directory.
 •	Run the following command to compile the application:
 dotnet build
